@@ -1,0 +1,7 @@
+venv
+geckodriver.log
+__pycache__
+app.py
+static
+templates
+screener.py
